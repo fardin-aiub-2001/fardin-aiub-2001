@@ -10,7 +10,7 @@ I am currently a student pursuing a **BSc in Computer Science and Engineering (C
 - **Rajendrapur Cantonment Public School & College** | **SSC (Science)** | **GPA: 5.00** | Dhaka Board
 
 ## 💻 Skills & Expertise
-- **Programming Languages:** C, C++, Java, Python, JavaScript, C# (.NET Winform)
+- **Programming Languages:** C, C++, Java, Python, C# (.NET Winform)
 - **Database Management:** SQL (Oracle & MS SQL Server), XAMPP
 - **Web Development:** HTML, Python
 - **Object-Oriented Programming & Design**
