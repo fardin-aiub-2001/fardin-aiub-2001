@@ -18,10 +18,11 @@ I am currently a student pursuing a **BSc in Computer Science and Engineering (C
 - **Problem Solving, Data Structures, and Algorithms**
 
 ## 🚀 Projects
-- **EASY RENT** - A .NET Winform-based rental application.
+- **EASY RENT** - A c# .NET Winform-based rental application with sql server 2014 management studio based information management system.
 - **AIUB Lost and Found** - A Java-based GUI application.
 - **Custom Tool Library** - Developing a library for .NET Winform applications.
-- **Oracle-Based Database Project** - Creating a schema.
+- **Oracle-Based Database Project** - Creating a schema (The Bank Management System).
+- **Aiub Attandence Management System** - A Java-based GUI application.(ongoing)
 
 ## 🌱 Currently Learning
 - **Algorithms**
