@@ -23,6 +23,7 @@ I am currently a student pursuing a **BSc in Computer Science and Engineering (C
 - **Custom Tool Library** - Developing a library for .NET Winform applications.
 - **Oracle-Based Database Project** - Creating a schema (The Bank Management System).
 - **Aiub Attandence Management System** - A Java-based GUI application.(ongoing)
+- **Health Navigation Management System** - A front-end project for the Software Engineering Course.
 
 ## 🌱 Currently Learning
 - **Algorithms**
