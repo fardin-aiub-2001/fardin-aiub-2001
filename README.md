@@ -26,9 +26,9 @@ I am currently a student pursuing a **BSc in Computer Science and Engineering (C
 - **Health Navigation Management System** - A front-end project for the Software Engineering Course.
 
 ## 🚀 Projects Planning
--**Aiub-Offered Course Management System**
--**Weekly Routine Generator**
--**Dynamic Personal Portfolio**
+-**Aiub-Offered Course Management System** - 
+-**Weekly Routine Generator** - 
+-**Dynamic Personal Portfolio** - 
 
 ## 🌱 Currently Learning
 - **Algorithms**
