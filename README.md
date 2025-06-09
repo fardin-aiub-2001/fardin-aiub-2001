@@ -25,6 +25,11 @@ I am currently a student pursuing a **BSc in Computer Science and Engineering (C
 - **Aiub Attandence Management System** - A Java-based GUI application.(ongoing)
 - **Health Navigation Management System** - A front-end project for the Software Engineering Course.
 
+## 🚀 Projects Planning
+-**Aiub-Offered Course Management System**
+-**Weekly Routine Generator**
+-**Dynamic Personal Portfolio**
+
 ## 🌱 Currently Learning
 - **Algorithms**
 
@@ -43,4 +48,3 @@ I am currently a student pursuing a **BSc in Computer Science and Engineering (C
 fardin-aiub-2001/fardin-aiub-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
