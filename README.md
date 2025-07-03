@@ -1,10 +1,10 @@
 # Hi, I'm Md Fardin Ahamed (@fardin-aiub-2001) 
 
 ## 👀 About Me
-I am currently a student pursuing a **BSc in Computer Science and Engineering (CSE)** at **American International University-Bangladesh (AIUB)**. I have completed **74 credits** and now I am in my **6th semester**. I have a strong passion for technology, coding, and problem-solving.
+I am currently a student pursuing a **BSc in Computer Science and Engineering (CSE)** at **American International University-Bangladesh (AIUB)**. I have completed **89 credits** and now I am in my **7th semester**. I have a strong passion for technology, coding, and problem-solving.
 
 ## 📚 Academic Background
-- **American International University-Bangladesh** | **BSc in Computer Science and Engineering** | 2023 Batch | **CGPA: 3.76**
+- **American International University-Bangladesh** | **BSc in Computer Science and Engineering** | 2023 Batch | **CGPA: 3.74**
 - **Military Institute of Science and Technology** | **Nuclear Science and Engineering** | 2021 Batch (Left in 2023 to pursue CSE at AIUB)
 - **Adamjee Cantonment College** | **HSC (Science)** | **GPA: 5.00** | Dhaka Board
 - **Rajendrapur Cantonment Public School & College** | **SSC (Science)** | **GPA: 5.00** | Dhaka Board
@@ -22,7 +22,7 @@ I am currently a student pursuing a **BSc in Computer Science and Engineering (C
 - **AIUB Lost and Found** - A Java-based GUI application.
 - **Custom Tool Library** - Developing a library for .NET Winform applications.
 - **Oracle-Based Database Project** - Creating a schema (The Bank Management System).
-- **Aiub Attandence Management System** - A Java-based GUI application.(ongoing)
+- **Aiub Attandence Management System** - A Java-based GUI application.
 - **Health Navigation Management System** - A front-end project for the Software Engineering Course.
 
 ## 🚀 Projects Planning
