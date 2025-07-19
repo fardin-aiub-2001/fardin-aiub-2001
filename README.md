@@ -12,7 +12,7 @@ I am currently a student pursuing a **BSc in Computer Science and Engineering (C
 ## 💻 Skills & Expertise
 - **Programming Languages:** C, C++, Java, Python, C# (.NET Winform)
 - **Database Management:** SQL (Oracle & MS SQL Server), XAMPP
-- **Web Development:** HTML, Python
+- **Web Development:** HTML, Python, Css, JavaScript(ongoing)
 - **Object-Oriented Programming & Design**
 - **Software Development:** Desktop applications using **C# .NET** and **Java GUI**
 - **Problem Solving, Data Structures, and Algorithms**
