@@ -1,50 +1,81 @@
-# Hi, I'm Md Fardin Ahamed (@fardin-aiub-2001) 
+# Hi, I'm Md Fardin Ahamed (@fardin-aiub-2001) 👋
 
 ## 👀 About Me
-I am currently a student pursuing a **BSc in Computer Science and Engineering (CSE)** at **American International University-Bangladesh (AIUB)**. I have completed **89 credits** and now I am in my **7th semester**. I have a strong passion for technology, coding, and problem-solving.
+I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at **American International University-Bangladesh (AIUB)**. I’ve completed **89 credits** and am now in my **7th semester**. I’m passionate about technology, coding, and solving real-world problems.
+
+---
 
 ## 📚 Academic Background
-- **American International University-Bangladesh** | **BSc in Computer Science and Engineering** | 2023 Batch | **CGPA: 3.74**
-- **Military Institute of Science and Technology** | **Nuclear Science and Engineering** | 2021 Batch (Left in 2023 to pursue CSE at AIUB)
-- **Adamjee Cantonment College** | **HSC (Science)** | **GPA: 5.00** | Dhaka Board
-- **Rajendrapur Cantonment Public School & College** | **SSC (Science)** | **GPA: 5.00** | Dhaka Board
+- 🎓 **American International University-Bangladesh (AIUB)**  
+  BSc in Computer Science and Engineering | 2023 Batch | **CGPA: 3.74**
+
+- 🧪 **Military Institute of Science and Technology (MIST)**  
+  Nuclear Science and Engineering | 2021 Batch *(Left in 2023 to pursue CSE at AIUB)*
+
+- 🏫 **Adamjee Cantonment College**  
+  HSC (Science) | GPA: 5.00 | Dhaka Board
+
+- 🏫 **Rajendrapur Cantonment Public School & College**  
+  SSC (Science) | GPA: 5.00 | Dhaka Board
+
+---
 
 ## 💻 Skills & Expertise
-- **Programming Languages:** C, C++, Java, Python, C# (.NET Winform)
-- **Database Management:** SQL (Oracle & MS SQL Server), XAMPP
-- **Web Development:** HTML, Python, Css, JavaScript(ongoing)
-- **Object-Oriented Programming & Design**
-- **Software Development:** Desktop applications using **C# .NET** and **Java GUI**
-- **Problem Solving, Data Structures, and Algorithms**
+- **Languages:** C, C++, Java, Python, C# (.NET WinForms)
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** SQL (Oracle & MS SQL Server), XAMPP
+- **Version Control:** Git, GitHub, Git Bash
+- **Software Development:** Desktop apps using C# .NET and Java GUI
+- **Concepts:** OOP, Data Structures, Algorithms, Problem Solving
+
+---
 
 ## 🚀 Projects
-- **EASY RENT** - A c# .NET Winform-based rental application with sql server 2014 management studio based information management system.
-- **AIUB Lost and Found** - A Java-based GUI application.
-- **Custom Tool Library** - Developing a library for .NET Winform applications.
-- **Oracle-Based Database Project** - Creating a schema (The Bank Management System).
-- **Aiub Attandence Management System** - A Java-based GUI application.
-- **Health Navigation Management System** - A front-end project for the Software Engineering Course.
+- **EASY RENT** *(Group Project)*  
+  > C# .NET WinForms rental app with SQL Server 2014 backend  
+  > My contribution: **60% frontend**, **100% backend**
 
-## 🚀 Projects Planning
--**Aiub-Offered Course Management System** - 
--**Weekly Routine Generator** - 
--**Dynamic Personal Portfolio** - 
+- **AIUB Lost and Found** *(Group Project)*  
+  > Java GUI application  
+  > AI-assisted: **20% frontend**, **5% backend troubleshooting**
+
+- **Custom Tool Library**  
+  > Personal-use library for .NET WinForms tools
+
+- **Oracle-Based Bank Management System**  
+  > Schema design and implementation using Oracle DB
+
+- **AIUB Attendance Management System**  
+  > Java GUI app | AI-assisted: **80%**
+
+- **Health Navigation Management System**  
+  > Frontend project for Software Engineering course
+
+---
+
+## 🛠️ Upcoming Projects
+- **AIUB-Offered Course Management System**
+- **Weekly Routine Generator**
+- **Dynamic Personal Portfolio**
+
+---
 
 ## 🌱 Currently Learning
-- **Algorithms**
+- Advanced **Algorithms**
+
+---
 
 ## 🔗 Connect with Me
-- **GitHub:** [fardin-aiub-2001](https://github.com/fardin-aiub-2001)
-- **LinkedIn:** [Md Fardin Ahmed](https://www.linkedin.com/in/fardin-ahmed-5b64aa319/)
+- 💻 [GitHub](https://github.com/fardin-aiub-2001)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fardin-ahmed-5b64aa319/)
+
+---
 
 ## 📫 Contact Me
-- **📞 Phone:** +8801537252971
-- **📧 Email:** fardinahmedrocktim@gmail.com
-- **🏡 Address:** West Matikata, Dhaka Cantonment, Dhaka
+- 📞 **Phone:** +8801537252971  
+- 📧 **Email:** fardinahmedrocktim@gmail.com  
+- 🏡 **Address:** West Matikata, Dhaka Cantonment, Dhaka
 
-⚡ **Fun Fact:** I love to learn anything, and if you need my help, feel free to ask! 😄
+---
 
-<!---
-fardin-aiub-2001/fardin-aiub-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ **Fun Fact:** I love learning anything new—feel free to reach out if you need help! 😄
