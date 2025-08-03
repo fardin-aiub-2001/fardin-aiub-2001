@@ -3,14 +3,14 @@
 ## 👀 About Me
 I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at **American International University-Bangladesh (AIUB)**. I’ve completed **89 credits** and am now in my **7th semester**. I’m passionate about technology, coding, and solving real-world problems.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📚 Academic Background
 - 🎓 **American International University-Bangladesh (AIUB)**  
   BSc in Computer Science and Engineering | 2023 Batch | **CGPA: 3.74**
 
 - 🧪 **Military Institute of Science and Technology (MIST)**  
-  Nuclear Science and Engineering | 2021 Batch *(Left in 2023 to pursue CSE at AIUB)*
+  Nuclear Science and Engineering | 2021 Batch **(Left in 2023 to pursue CSE at AIUB)**
 
 - 🏫 **Adamjee Cantonment College**  
   HSC (Science) | GPA: 5.00 | Dhaka Board
@@ -45,8 +45,8 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 - **Oracle-Based Bank Management System**  
   > Schema design and implementation using Oracle DB
 
-- **AIUB Attendance Management System**  
-  > Java GUI app | AI-assisted: **80%**
+- **AIUB Attendance Management System**(Personal project) 
+  > Java GUI app | AI-assisted: **Almost 50%**
 
 - **Health Navigation Management System**  
   > Frontend project for Software Engineering course
@@ -57,6 +57,7 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 - **AIUB-Offered Course Management System**
 - **Weekly Routine Generator**
 - **Dynamic Personal Portfolio**
+- **Graph-View of Academic Result**
 
 ---
 
