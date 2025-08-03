@@ -37,7 +37,7 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 
 - **AIUB Lost and Found** *(Group Project)*  
   > Java GUI application  
-  > AI-assisted: **20% frontend**, **5% backend troubleshooting**
+  > AI-assisted: **20% frontend- Solving Errors and taking suggestions for code**, **30% backend troubleshooting**
 
 - **Custom Tool Library**  
   > Personal-use library for .NET WinForms tools
