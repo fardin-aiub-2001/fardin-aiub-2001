@@ -74,7 +74,7 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 
 ## 🔗 Connect with Me
 - 💻 [GitHub](https://github.com/fardin-aiub-2001)
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-fardin-ahamed-5b64aa319/}
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-fardin-ahamed-5b64aa319/)
 
 ---
 
