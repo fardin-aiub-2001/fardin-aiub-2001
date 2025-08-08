@@ -46,6 +46,7 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 - **Oracle-Based Bank Management System**  
   > Schema design and implementation using Oracle DB
   >> **My Contribution: 50%**
+  >> **Group ptoject of 3 members**
 
 - **AIUB Attendance Management System**(Personal project) 
   > Java GUI app
