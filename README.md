@@ -41,15 +41,20 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 
 - **Custom Tool Library**  
   > Personal-use library for .NET WinForms tools
+  > **My Contribution: 100%**
 
 - **Oracle-Based Bank Management System**  
   > Schema design and implementation using Oracle DB
+  > > **My Contribution: 50%**
 
 - **AIUB Attendance Management System**(Personal project) 
-  > Java GUI app | AI-assisted: **Almost 50%**
+  > Java GUI app
+  > **AI-assisted: Almost 80% in backend**
+  > > **My Contribution: 100% in frontend**
 
 - **Health Navigation Management System**  
   > Frontend project for Software Engineering course
+  > > **Group project of 5 members**
 
 ---
 
