@@ -33,24 +33,24 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 ## 🚀 Projects
 - **EASY RENT** *(Group Project)*  
   > C# .NET WinForms rental app with SQL Server 2014 backend  
-  > My contribution: ****100% backend , 60% frontend**
+  >>**My contribution: 100% backend , 60% frontend**
 
 - **AIUB Lost and Found** *(Group Project)*  
   > Java GUI application  
-  > AI-assisted: **30% backend troubleshooting** , **20% frontend- Solving Errors and taking suggestions for code**
+  >>**My contribution: 30% backend troubleshooting** , **20% frontend- Solving Errors and taking suggestions for code**
 
 - **Custom Tool Library**  
   > Personal-use library for .NET WinForms tools
-  > **My Contribution: 100%**
+  >>**My Contribution: 100%**
 
 - **Oracle-Based Bank Management System**  
   > Schema design and implementation using Oracle DB
-  > > **My Contribution: 50%**
+  >> **My Contribution: 50%**
 
 - **AIUB Attendance Management System**(Personal project) 
   > Java GUI app
   > **AI-assisted: Almost 80% in backend**
-  > > **My Contribution: 100% in frontend**
+  >>**My Contribution: 100% in frontend**
 
 - **Health Navigation Management System**  
   > Frontend project for Software Engineering course
