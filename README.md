@@ -33,11 +33,11 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 ## 🚀 Projects
 - **EASY RENT** *(Group Project)*  
   > C# .NET WinForms rental app with SQL Server 2014 backend  
-  > My contribution: **60% frontend**, **100% backend**
+  > My contribution: ****100% backend , 60% frontend**
 
 - **AIUB Lost and Found** *(Group Project)*  
   > Java GUI application  
-  > AI-assisted: **20% frontend- Solving Errors and taking suggestions for code**, **30% backend troubleshooting**
+  > AI-assisted: **30% backend troubleshooting** , **20% frontend- Solving Errors and taking suggestions for code**
 
 - **Custom Tool Library**  
   > Personal-use library for .NET WinForms tools
