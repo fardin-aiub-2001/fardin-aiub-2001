@@ -64,6 +64,7 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 - **Weekly Routine Generator**
 - **Dynamic Personal Portfolio**
 - **Graph-View of Academic Result**
+- **Calculator and Cgpa Calculator**
 
 ---
 
