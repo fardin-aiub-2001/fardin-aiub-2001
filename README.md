@@ -22,7 +22,7 @@ I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at 
 
 ## 💻 Skills & Expertise
 - **Languages:** C, C++, Java, Python, C# (.NET WinForms)
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, PHP
 - **Database:** SQL (Oracle & MS SQL Server), XAMPP
 - **Version Control:** Git, GitHub, Git Bash
 - **Software Development:** Desktop apps using C# .NET and Java GUI
