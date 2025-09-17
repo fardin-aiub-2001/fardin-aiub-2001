@@ -1,7 +1,7 @@
 # Hi, I'm Md Fardin Ahamed (@fardin-aiub-2001) 👋
 
 ## 👀 About Me
-I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at **American International University-Bangladesh (AIUB)**. I’ve completed **89 credits** and am now in my **7th semester**. I’m passionate about technology, coding, and solving real-world problems.
+I’m currently pursuing a **BSc in Computer Science and Engineering (CSE)** at **American International University-Bangladesh (AIUB)**. I’ve completed **98 credits** and am now in my **8th semester**. I’m passionate about technology, coding, and solving real-world problems.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
